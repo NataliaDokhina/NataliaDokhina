@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Natalia Dokhina
-- 🌱 I’m a certified Data Analyst with experience in Healthcare
-- 💞️ I’m looking to collaborate on different projects 
-- 📫 How to reach me http://t.me/Natalia_Dokh                     
-- 😄 Pronouns: She/Her
+### Natalia Dokhina, MD
 
-<!---
-NataliaDokhina/NataliaDokhina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Physician (pediatric hematology/oncology, 5 years at participating sites of multicenter trials and two international registries) and certified Data Analyst (Python, SQL, Tableau).
+
+Clinical research data: medical-record abstraction, registry databases, data quality checks, query resolution. Good Clinical Practice certified. Based in Tampa Bay, Florida.
+
+**Portfolio:** [Projects_english](https://github.com/NataliaDokhina/Projects_english)  
+**LinkedIn:** [linkedin.com/in/natalia-dokhina](https://www.linkedin.com/in/natalia-dokhina)
